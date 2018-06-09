@@ -32,4 +32,7 @@
 	<allow-intent href="sms:*" />
 	<allow-intent href="mailto:*" />
 	<allow-intent href="geo:*" />
+	<preference name="windows-phone-target-version" value="8.1" />
+	<preference name="windows-appx-target" value="8.1-phone" />
+	<preference name="windows-arch" value="arm" />
 </widget>
