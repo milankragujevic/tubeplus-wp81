@@ -10,14 +10,12 @@
 	</author>
 	<content src="index.html" />
 	<preference name="DisallowOverscroll" value="true" />
-	<platform name="wp8">
-		<icon src="www/assets/ApplicationIcon.png" platform="wp8" width="99" height="99" />
-		<icon src="www/assets/Background.png" platform="wp8" width="159" height="159" />
-		<splash src="www/assets/screen-portrait.jpg" platform="wp8" width="720" height="1280" />
-		<preference name="windows-phone-target-version" value="8.1" />
-		<preference name="windows-appx-target" value="8.1-phone" />
-		<preference name="windows-arch" value="anycpu" />
-	</platform>
+	<icon src="www/assets/ApplicationIcon.png" width="99" height="99" />
+	<icon src="www/assets/Background.png" width="159" height="159" />
+	<splash src="www/assets/screen-portrait.jpg" width="720" height="1280" />
+	<preference name="windows-phone-target-version" value="8.1" />
+	<preference name="windows-appx-target" value="8.1-phone" />
+	<preference name="windows-arch" value="anycpu" />
 	<access origin="*" />
 	<allow-intent href="http://*/*" />
 	<allow-intent href="https://*/*" />
