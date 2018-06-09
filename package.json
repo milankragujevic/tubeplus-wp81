@@ -1,0 +1,15 @@
+{
+  "name": "tubeplus-wp81",
+  "version": "1.0.0",
+  "description": "TubePlus client for YouTube for Windows Phone 8.1.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/milankragujevic/tubeplus-wp81.git"
+  },
+  "author": "Milan Kragujevic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milankragujevic/tubeplus-wp81/issues"
+  },
+  "homepage": "https://github.com/milankragujevic/tubeplus-wp81"
+}
