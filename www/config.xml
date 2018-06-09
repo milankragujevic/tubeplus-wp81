@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.milankragujevic.tubeplus" version="1.0.0">
 	<name>TubePlus</name>
-	<preference name="phonegap-version" value="cli-6.0.0" />
+	<preference name="phonegap-version" value="cli-6.5.0" />
 	<description>
 		TubePlus client for YouTube for Windows Phone 8.1.
 	</description>
